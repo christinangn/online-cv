@@ -1,4 +1,4 @@
-# online-cv
+# CV
 # Christina Nguyen
 **Software Development Student – BTS SIO SLAM**  
 Seeking a **10-week Web Development Internship**
